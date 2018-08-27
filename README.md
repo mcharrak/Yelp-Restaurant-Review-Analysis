@@ -1,7 +1,8 @@
 # Yelp-Review-Analysis-And-Prediction
 
+Implementation of Topic Modeling To Uncover Hidden Strengths and Weaknesses of Restaurants
 
-Data Format
+The Dataset Format looks as follows:
 
 1. Business Data:
 
